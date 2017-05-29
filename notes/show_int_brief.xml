@@ -1,0 +1,1064 @@
+<?xml version="1.0"?>
+<ins_api>
+  <type>cli_show</type>
+  <version>1.0</version>
+  <sid>eoc</sid>
+  <outputs>
+    <output>
+      <body>
+      <TABLE_interface>
+       <ROW_interface>
+        <interface>mgmt0</interface>
+        <state>up</state>
+        <ip_addr>198.18.133.100</ip_addr>
+        <speed>1000</speed>
+        <mtu>1500</mtu>
+       </ROW_interface>
+       <ROW_interface>
+        <interface>Ethernet1/1</interface>
+        <vlan>1</vlan>
+        <type>eth</type>
+        <portmode>access</portmode>
+        <state>down</state>
+        <state_rsn_desc>Administratively down</state_rsn_desc>
+        <speed>auto</speed>
+        <ratemode>D</ratemode>
+       </ROW_interface>
+       <ROW_interface>
+        <interface>Ethernet1/2</interface>
+        <vlan>1</vlan>
+        <type>eth</type>
+        <portmode>access</portmode>
+        <state>down</state>
+        <state_rsn_desc>Administratively down</state_rsn_desc>
+        <speed>auto</speed>
+        <ratemode>D</ratemode>
+       </ROW_interface>
+       <ROW_interface>
+        <interface>Ethernet1/3</interface>
+        <vlan>1</vlan>
+        <type>eth</type>
+        <portmode>access</portmode>
+        <state>down</state>
+        <state_rsn_desc>Administratively down</state_rsn_desc>
+        <speed>auto</speed>
+        <ratemode>D</ratemode>
+       </ROW_interface>
+       <ROW_interface>
+        <interface>Ethernet1/4</interface>
+        <vlan>1</vlan>
+        <type>eth</type>
+        <portmode>access</portmode>
+        <state>down</state>
+        <state_rsn_desc>Administratively down</state_rsn_desc>
+        <speed>auto</speed>
+        <ratemode>D</ratemode>
+       </ROW_interface>
+       <ROW_interface>
+        <interface>Ethernet1/5</interface>
+        <vlan>1</vlan>
+        <type>eth</type>
+        <portmode>access</portmode>
+        <state>down</state>
+        <state_rsn_desc>Administratively down</state_rsn_desc>
+        <speed>auto</speed>
+        <ratemode>D</ratemode>
+       </ROW_interface>
+       <ROW_interface>
+        <interface>Ethernet1/6</interface>
+        <vlan>1</vlan>
+        <type>eth</type>
+        <portmode>access</portmode>
+        <state>down</state>
+        <state_rsn_desc>Administratively down</state_rsn_desc>
+        <speed>auto</speed>
+        <ratemode>D</ratemode>
+       </ROW_interface>
+       <ROW_interface>
+        <interface>Ethernet1/7</interface>
+        <vlan>1</vlan>
+        <type>eth</type>
+        <portmode>access</portmode>
+        <state>down</state>
+        <state_rsn_desc>Administratively down</state_rsn_desc>
+        <speed>auto</speed>
+        <ratemode>D</ratemode>
+       </ROW_interface>
+       <ROW_interface>
+        <interface>Ethernet1/8</interface>
+        <vlan>1</vlan>
+        <type>eth</type>
+        <portmode>access</portmode>
+        <state>down</state>
+        <state_rsn_desc>Administratively down</state_rsn_desc>
+        <speed>auto</speed>
+        <ratemode>D</ratemode>
+       </ROW_interface>
+       <ROW_interface>
+        <interface>Ethernet1/9</interface>
+        <vlan>1</vlan>
+        <type>eth</type>
+        <portmode>access</portmode>
+        <state>down</state>
+        <state_rsn_desc>Administratively down</state_rsn_desc>
+        <speed>auto</speed>
+        <ratemode>D</ratemode>
+       </ROW_interface>
+       <ROW_interface>
+        <interface>Ethernet1/10</interface>
+        <vlan>1</vlan>
+        <type>eth</type>
+        <portmode>access</portmode>
+        <state>down</state>
+        <state_rsn_desc>Administratively down</state_rsn_desc>
+        <speed>auto</speed>
+        <ratemode>D</ratemode>
+       </ROW_interface>
+       <ROW_interface>
+        <interface>Ethernet1/11</interface>
+        <vlan>1</vlan>
+        <type>eth</type>
+        <portmode>access</portmode>
+        <state>down</state>
+        <state_rsn_desc>Administratively down</state_rsn_desc>
+        <speed>auto</speed>
+        <ratemode>D</ratemode>
+       </ROW_interface>
+       <ROW_interface>
+        <interface>Ethernet1/12</interface>
+        <vlan>1</vlan>
+        <type>eth</type>
+        <portmode>access</portmode>
+        <state>down</state>
+        <state_rsn_desc>Administratively down</state_rsn_desc>
+        <speed>auto</speed>
+        <ratemode>D</ratemode>
+       </ROW_interface>
+       <ROW_interface>
+        <interface>Ethernet1/13</interface>
+        <vlan>1</vlan>
+        <type>eth</type>
+        <portmode>access</portmode>
+        <state>down</state>
+        <state_rsn_desc>Administratively down</state_rsn_desc>
+        <speed>auto</speed>
+        <ratemode>D</ratemode>
+       </ROW_interface>
+       <ROW_interface>
+        <interface>Ethernet1/14</interface>
+        <vlan>1</vlan>
+        <type>eth</type>
+        <portmode>access</portmode>
+        <state>down</state>
+        <state_rsn_desc>Administratively down</state_rsn_desc>
+        <speed>auto</speed>
+        <ratemode>D</ratemode>
+       </ROW_interface>
+       <ROW_interface>
+        <interface>Ethernet1/15</interface>
+        <vlan>1</vlan>
+        <type>eth</type>
+        <portmode>access</portmode>
+        <state>down</state>
+        <state_rsn_desc>Administratively down</state_rsn_desc>
+        <speed>auto</speed>
+        <ratemode>D</ratemode>
+       </ROW_interface>
+       <ROW_interface>
+        <interface>Ethernet1/16</interface>
+        <vlan>1</vlan>
+        <type>eth</type>
+        <portmode>access</portmode>
+        <state>down</state>
+        <state_rsn_desc>Administratively down</state_rsn_desc>
+        <speed>auto</speed>
+        <ratemode>D</ratemode>
+       </ROW_interface>
+       <ROW_interface>
+        <interface>Ethernet1/17</interface>
+        <vlan>1</vlan>
+        <type>eth</type>
+        <portmode>access</portmode>
+        <state>down</state>
+        <state_rsn_desc>Administratively down</state_rsn_desc>
+        <speed>auto</speed>
+        <ratemode>D</ratemode>
+       </ROW_interface>
+       <ROW_interface>
+        <interface>Ethernet1/18</interface>
+        <vlan>1</vlan>
+        <type>eth</type>
+        <portmode>access</portmode>
+        <state>down</state>
+        <state_rsn_desc>Administratively down</state_rsn_desc>
+        <speed>auto</speed>
+        <ratemode>D</ratemode>
+       </ROW_interface>
+       <ROW_interface>
+        <interface>Ethernet1/19</interface>
+        <vlan>1</vlan>
+        <type>eth</type>
+        <portmode>access</portmode>
+        <state>down</state>
+        <state_rsn_desc>Administratively down</state_rsn_desc>
+        <speed>auto</speed>
+        <ratemode>D</ratemode>
+       </ROW_interface>
+       <ROW_interface>
+        <interface>Ethernet1/20</interface>
+        <vlan>1</vlan>
+        <type>eth</type>
+        <portmode>access</portmode>
+        <state>down</state>
+        <state_rsn_desc>Administratively down</state_rsn_desc>
+        <speed>auto</speed>
+        <ratemode>D</ratemode>
+       </ROW_interface>
+       <ROW_interface>
+        <interface>Ethernet1/21</interface>
+        <vlan>1</vlan>
+        <type>eth</type>
+        <portmode>access</portmode>
+        <state>down</state>
+        <state_rsn_desc>Administratively down</state_rsn_desc>
+        <speed>auto</speed>
+        <ratemode>D</ratemode>
+       </ROW_interface>
+       <ROW_interface>
+        <interface>Ethernet1/22</interface>
+        <vlan>1</vlan>
+        <type>eth</type>
+        <portmode>access</portmode>
+        <state>down</state>
+        <state_rsn_desc>Administratively down</state_rsn_desc>
+        <speed>auto</speed>
+        <ratemode>D</ratemode>
+       </ROW_interface>
+       <ROW_interface>
+        <interface>Ethernet1/23</interface>
+        <vlan>1</vlan>
+        <type>eth</type>
+        <portmode>access</portmode>
+        <state>down</state>
+        <state_rsn_desc>Administratively down</state_rsn_desc>
+        <speed>auto</speed>
+        <ratemode>D</ratemode>
+       </ROW_interface>
+       <ROW_interface>
+        <interface>Ethernet1/24</interface>
+        <vlan>1</vlan>
+        <type>eth</type>
+        <portmode>access</portmode>
+        <state>down</state>
+        <state_rsn_desc>Administratively down</state_rsn_desc>
+        <speed>auto</speed>
+        <ratemode>D</ratemode>
+       </ROW_interface>
+       <ROW_interface>
+        <interface>Ethernet1/25</interface>
+        <vlan>1</vlan>
+        <type>eth</type>
+        <portmode>access</portmode>
+        <state>down</state>
+        <state_rsn_desc>Administratively down</state_rsn_desc>
+        <speed>auto</speed>
+        <ratemode>D</ratemode>
+       </ROW_interface>
+       <ROW_interface>
+        <interface>Ethernet1/26</interface>
+        <vlan>1</vlan>
+        <type>eth</type>
+        <portmode>access</portmode>
+        <state>down</state>
+        <state_rsn_desc>Administratively down</state_rsn_desc>
+        <speed>auto</speed>
+        <ratemode>D</ratemode>
+       </ROW_interface>
+       <ROW_interface>
+        <interface>Ethernet1/27</interface>
+        <vlan>1</vlan>
+        <type>eth</type>
+        <portmode>access</portmode>
+        <state>down</state>
+        <state_rsn_desc>Administratively down</state_rsn_desc>
+        <speed>auto</speed>
+        <ratemode>D</ratemode>
+       </ROW_interface>
+       <ROW_interface>
+        <interface>Ethernet1/28</interface>
+        <vlan>1</vlan>
+        <type>eth</type>
+        <portmode>access</portmode>
+        <state>down</state>
+        <state_rsn_desc>Administratively down</state_rsn_desc>
+        <speed>auto</speed>
+        <ratemode>D</ratemode>
+       </ROW_interface>
+       <ROW_interface>
+        <interface>Ethernet1/29</interface>
+        <vlan>1</vlan>
+        <type>eth</type>
+        <portmode>access</portmode>
+        <state>down</state>
+        <state_rsn_desc>Administratively down</state_rsn_desc>
+        <speed>auto</speed>
+        <ratemode>D</ratemode>
+       </ROW_interface>
+       <ROW_interface>
+        <interface>Ethernet1/30</interface>
+        <vlan>1</vlan>
+        <type>eth</type>
+        <portmode>access</portmode>
+        <state>down</state>
+        <state_rsn_desc>Administratively down</state_rsn_desc>
+        <speed>auto</speed>
+        <ratemode>D</ratemode>
+       </ROW_interface>
+       <ROW_interface>
+        <interface>Ethernet1/31</interface>
+        <vlan>1</vlan>
+        <type>eth</type>
+        <portmode>access</portmode>
+        <state>down</state>
+        <state_rsn_desc>Administratively down</state_rsn_desc>
+        <speed>auto</speed>
+        <ratemode>D</ratemode>
+       </ROW_interface>
+       <ROW_interface>
+        <interface>Ethernet1/32</interface>
+        <vlan>1</vlan>
+        <type>eth</type>
+        <portmode>access</portmode>
+        <state>down</state>
+        <state_rsn_desc>Administratively down</state_rsn_desc>
+        <speed>auto</speed>
+        <ratemode>D</ratemode>
+       </ROW_interface>
+       <ROW_interface>
+        <interface>Ethernet1/33</interface>
+        <vlan>1</vlan>
+        <type>eth</type>
+        <portmode>access</portmode>
+        <state>down</state>
+        <state_rsn_desc>Administratively down</state_rsn_desc>
+        <speed>auto</speed>
+        <ratemode>D</ratemode>
+       </ROW_interface>
+       <ROW_interface>
+        <interface>Ethernet1/34</interface>
+        <vlan>1</vlan>
+        <type>eth</type>
+        <portmode>access</portmode>
+        <state>down</state>
+        <state_rsn_desc>Administratively down</state_rsn_desc>
+        <speed>auto</speed>
+        <ratemode>D</ratemode>
+       </ROW_interface>
+       <ROW_interface>
+        <interface>Ethernet1/35</interface>
+        <vlan>1</vlan>
+        <type>eth</type>
+        <portmode>access</portmode>
+        <state>down</state>
+        <state_rsn_desc>Administratively down</state_rsn_desc>
+        <speed>auto</speed>
+        <ratemode>D</ratemode>
+       </ROW_interface>
+       <ROW_interface>
+        <interface>Ethernet1/36</interface>
+        <vlan>1</vlan>
+        <type>eth</type>
+        <portmode>access</portmode>
+        <state>down</state>
+        <state_rsn_desc>Administratively down</state_rsn_desc>
+        <speed>auto</speed>
+        <ratemode>D</ratemode>
+       </ROW_interface>
+       <ROW_interface>
+        <interface>Ethernet1/37</interface>
+        <vlan>1</vlan>
+        <type>eth</type>
+        <portmode>access</portmode>
+        <state>down</state>
+        <state_rsn_desc>Administratively down</state_rsn_desc>
+        <speed>auto</speed>
+        <ratemode>D</ratemode>
+       </ROW_interface>
+       <ROW_interface>
+        <interface>Ethernet1/38</interface>
+        <vlan>1</vlan>
+        <type>eth</type>
+        <portmode>access</portmode>
+        <state>down</state>
+        <state_rsn_desc>Administratively down</state_rsn_desc>
+        <speed>auto</speed>
+        <ratemode>D</ratemode>
+       </ROW_interface>
+       <ROW_interface>
+        <interface>Ethernet1/39</interface>
+        <vlan>1</vlan>
+        <type>eth</type>
+        <portmode>access</portmode>
+        <state>down</state>
+        <state_rsn_desc>Administratively down</state_rsn_desc>
+        <speed>auto</speed>
+        <ratemode>D</ratemode>
+       </ROW_interface>
+       <ROW_interface>
+        <interface>Ethernet1/40</interface>
+        <vlan>1</vlan>
+        <type>eth</type>
+        <portmode>access</portmode>
+        <state>down</state>
+        <state_rsn_desc>Administratively down</state_rsn_desc>
+        <speed>auto</speed>
+        <ratemode>D</ratemode>
+       </ROW_interface>
+       <ROW_interface>
+        <interface>Ethernet1/41</interface>
+        <vlan>1</vlan>
+        <type>eth</type>
+        <portmode>access</portmode>
+        <state>down</state>
+        <state_rsn_desc>Administratively down</state_rsn_desc>
+        <speed>auto</speed>
+        <ratemode>D</ratemode>
+       </ROW_interface>
+       <ROW_interface>
+        <interface>Ethernet1/42</interface>
+        <vlan>1</vlan>
+        <type>eth</type>
+        <portmode>access</portmode>
+        <state>down</state>
+        <state_rsn_desc>Administratively down</state_rsn_desc>
+        <speed>auto</speed>
+        <ratemode>D</ratemode>
+       </ROW_interface>
+       <ROW_interface>
+        <interface>Ethernet1/43</interface>
+        <vlan>1</vlan>
+        <type>eth</type>
+        <portmode>access</portmode>
+        <state>down</state>
+        <state_rsn_desc>Administratively down</state_rsn_desc>
+        <speed>auto</speed>
+        <ratemode>D</ratemode>
+       </ROW_interface>
+       <ROW_interface>
+        <interface>Ethernet1/44</interface>
+        <vlan>1</vlan>
+        <type>eth</type>
+        <portmode>access</portmode>
+        <state>down</state>
+        <state_rsn_desc>Administratively down</state_rsn_desc>
+        <speed>auto</speed>
+        <ratemode>D</ratemode>
+       </ROW_interface>
+       <ROW_interface>
+        <interface>Ethernet1/45</interface>
+        <vlan>1</vlan>
+        <type>eth</type>
+        <portmode>access</portmode>
+        <state>down</state>
+        <state_rsn_desc>Administratively down</state_rsn_desc>
+        <speed>auto</speed>
+        <ratemode>D</ratemode>
+       </ROW_interface>
+       <ROW_interface>
+        <interface>Ethernet1/46</interface>
+        <vlan>1</vlan>
+        <type>eth</type>
+        <portmode>access</portmode>
+        <state>down</state>
+        <state_rsn_desc>Administratively down</state_rsn_desc>
+        <speed>auto</speed>
+        <ratemode>D</ratemode>
+       </ROW_interface>
+       <ROW_interface>
+        <interface>Ethernet1/47</interface>
+        <vlan>1</vlan>
+        <type>eth</type>
+        <portmode>access</portmode>
+        <state>down</state>
+        <state_rsn_desc>Administratively down</state_rsn_desc>
+        <speed>auto</speed>
+        <ratemode>D</ratemode>
+       </ROW_interface>
+       <ROW_interface>
+        <interface>Ethernet1/48</interface>
+        <vlan>1</vlan>
+        <type>eth</type>
+        <portmode>access</portmode>
+        <state>down</state>
+        <state_rsn_desc>Administratively down</state_rsn_desc>
+        <speed>auto</speed>
+        <ratemode>D</ratemode>
+       </ROW_interface>
+       <ROW_interface>
+        <interface>Ethernet1/49</interface>
+        <vlan>1</vlan>
+        <type>eth</type>
+        <portmode>access</portmode>
+        <state>down</state>
+        <state_rsn_desc>Administratively down</state_rsn_desc>
+        <speed>auto</speed>
+        <ratemode>D</ratemode>
+       </ROW_interface>
+       <ROW_interface>
+        <interface>Ethernet1/50</interface>
+        <vlan>1</vlan>
+        <type>eth</type>
+        <portmode>access</portmode>
+        <state>down</state>
+        <state_rsn_desc>Administratively down</state_rsn_desc>
+        <speed>auto</speed>
+        <ratemode>D</ratemode>
+       </ROW_interface>
+       <ROW_interface>
+        <interface>Ethernet1/51</interface>
+        <vlan>1</vlan>
+        <type>eth</type>
+        <portmode>access</portmode>
+        <state>down</state>
+        <state_rsn_desc>Administratively down</state_rsn_desc>
+        <speed>auto</speed>
+        <ratemode>D</ratemode>
+       </ROW_interface>
+       <ROW_interface>
+        <interface>Ethernet1/52</interface>
+        <vlan>1</vlan>
+        <type>eth</type>
+        <portmode>access</portmode>
+        <state>down</state>
+        <state_rsn_desc>Administratively down</state_rsn_desc>
+        <speed>auto</speed>
+        <ratemode>D</ratemode>
+       </ROW_interface>
+       <ROW_interface>
+        <interface>Ethernet1/53</interface>
+        <vlan>1</vlan>
+        <type>eth</type>
+        <portmode>access</portmode>
+        <state>down</state>
+        <state_rsn_desc>Administratively down</state_rsn_desc>
+        <speed>auto</speed>
+        <ratemode>D</ratemode>
+       </ROW_interface>
+       <ROW_interface>
+        <interface>Ethernet1/54</interface>
+        <vlan>1</vlan>
+        <type>eth</type>
+        <portmode>access</portmode>
+        <state>down</state>
+        <state_rsn_desc>Administratively down</state_rsn_desc>
+        <speed>auto</speed>
+        <ratemode>D</ratemode>
+       </ROW_interface>
+       <ROW_interface>
+        <interface>Ethernet1/55</interface>
+        <vlan>1</vlan>
+        <type>eth</type>
+        <portmode>access</portmode>
+        <state>down</state>
+        <state_rsn_desc>Administratively down</state_rsn_desc>
+        <speed>auto</speed>
+        <ratemode>D</ratemode>
+       </ROW_interface>
+       <ROW_interface>
+        <interface>Ethernet1/56</interface>
+        <vlan>1</vlan>
+        <type>eth</type>
+        <portmode>access</portmode>
+        <state>down</state>
+        <state_rsn_desc>Administratively down</state_rsn_desc>
+        <speed>auto</speed>
+        <ratemode>D</ratemode>
+       </ROW_interface>
+       <ROW_interface>
+        <interface>Ethernet1/57</interface>
+        <vlan>1</vlan>
+        <type>eth</type>
+        <portmode>access</portmode>
+        <state>down</state>
+        <state_rsn_desc>Administratively down</state_rsn_desc>
+        <speed>auto</speed>
+        <ratemode>D</ratemode>
+       </ROW_interface>
+       <ROW_interface>
+        <interface>Ethernet1/58</interface>
+        <vlan>1</vlan>
+        <type>eth</type>
+        <portmode>access</portmode>
+        <state>down</state>
+        <state_rsn_desc>Administratively down</state_rsn_desc>
+        <speed>auto</speed>
+        <ratemode>D</ratemode>
+       </ROW_interface>
+       <ROW_interface>
+        <interface>Ethernet1/59</interface>
+        <vlan>1</vlan>
+        <type>eth</type>
+        <portmode>access</portmode>
+        <state>down</state>
+        <state_rsn_desc>Administratively down</state_rsn_desc>
+        <speed>auto</speed>
+        <ratemode>D</ratemode>
+       </ROW_interface>
+       <ROW_interface>
+        <interface>Ethernet1/60</interface>
+        <vlan>1</vlan>
+        <type>eth</type>
+        <portmode>access</portmode>
+        <state>down</state>
+        <state_rsn_desc>Administratively down</state_rsn_desc>
+        <speed>auto</speed>
+        <ratemode>D</ratemode>
+       </ROW_interface>
+       <ROW_interface>
+        <interface>Ethernet1/61</interface>
+        <vlan>1</vlan>
+        <type>eth</type>
+        <portmode>access</portmode>
+        <state>down</state>
+        <state_rsn_desc>Administratively down</state_rsn_desc>
+        <speed>auto</speed>
+        <ratemode>D</ratemode>
+       </ROW_interface>
+       <ROW_interface>
+        <interface>Ethernet1/62</interface>
+        <vlan>1</vlan>
+        <type>eth</type>
+        <portmode>access</portmode>
+        <state>down</state>
+        <state_rsn_desc>Administratively down</state_rsn_desc>
+        <speed>auto</speed>
+        <ratemode>D</ratemode>
+       </ROW_interface>
+       <ROW_interface>
+        <interface>Ethernet1/63</interface>
+        <vlan>1</vlan>
+        <type>eth</type>
+        <portmode>access</portmode>
+        <state>down</state>
+        <state_rsn_desc>Administratively down</state_rsn_desc>
+        <speed>auto</speed>
+        <ratemode>D</ratemode>
+       </ROW_interface>
+       <ROW_interface>
+        <interface>Ethernet1/64</interface>
+        <vlan>1</vlan>
+        <type>eth</type>
+        <portmode>access</portmode>
+        <state>down</state>
+        <state_rsn_desc>Administratively down</state_rsn_desc>
+        <speed>auto</speed>
+        <ratemode>D</ratemode>
+       </ROW_interface>
+       <ROW_interface>
+        <interface>Ethernet1/65</interface>
+        <vlan>1</vlan>
+        <type>eth</type>
+        <portmode>access</portmode>
+        <state>down</state>
+        <state_rsn_desc>Administratively down</state_rsn_desc>
+        <speed>auto</speed>
+        <ratemode>D</ratemode>
+       </ROW_interface>
+       <ROW_interface>
+        <interface>Ethernet1/66</interface>
+        <vlan>1</vlan>
+        <type>eth</type>
+        <portmode>access</portmode>
+        <state>down</state>
+        <state_rsn_desc>Administratively down</state_rsn_desc>
+        <speed>auto</speed>
+        <ratemode>D</ratemode>
+       </ROW_interface>
+       <ROW_interface>
+        <interface>Ethernet1/67</interface>
+        <vlan>1</vlan>
+        <type>eth</type>
+        <portmode>access</portmode>
+        <state>down</state>
+        <state_rsn_desc>Administratively down</state_rsn_desc>
+        <speed>auto</speed>
+        <ratemode>D</ratemode>
+       </ROW_interface>
+       <ROW_interface>
+        <interface>Ethernet1/68</interface>
+        <vlan>1</vlan>
+        <type>eth</type>
+        <portmode>access</portmode>
+        <state>down</state>
+        <state_rsn_desc>Administratively down</state_rsn_desc>
+        <speed>auto</speed>
+        <ratemode>D</ratemode>
+       </ROW_interface>
+       <ROW_interface>
+        <interface>Ethernet1/69</interface>
+        <vlan>1</vlan>
+        <type>eth</type>
+        <portmode>access</portmode>
+        <state>down</state>
+        <state_rsn_desc>Administratively down</state_rsn_desc>
+        <speed>auto</speed>
+        <ratemode>D</ratemode>
+       </ROW_interface>
+       <ROW_interface>
+        <interface>Ethernet1/70</interface>
+        <vlan>1</vlan>
+        <type>eth</type>
+        <portmode>access</portmode>
+        <state>down</state>
+        <state_rsn_desc>Administratively down</state_rsn_desc>
+        <speed>auto</speed>
+        <ratemode>D</ratemode>
+       </ROW_interface>
+       <ROW_interface>
+        <interface>Ethernet1/71</interface>
+        <vlan>1</vlan>
+        <type>eth</type>
+        <portmode>access</portmode>
+        <state>down</state>
+        <state_rsn_desc>Administratively down</state_rsn_desc>
+        <speed>auto</speed>
+        <ratemode>D</ratemode>
+       </ROW_interface>
+       <ROW_interface>
+        <interface>Ethernet1/72</interface>
+        <vlan>1</vlan>
+        <type>eth</type>
+        <portmode>access</portmode>
+        <state>down</state>
+        <state_rsn_desc>Administratively down</state_rsn_desc>
+        <speed>auto</speed>
+        <ratemode>D</ratemode>
+       </ROW_interface>
+       <ROW_interface>
+        <interface>Ethernet1/73</interface>
+        <vlan>1</vlan>
+        <type>eth</type>
+        <portmode>access</portmode>
+        <state>down</state>
+        <state_rsn_desc>Administratively down</state_rsn_desc>
+        <speed>auto</speed>
+        <ratemode>D</ratemode>
+       </ROW_interface>
+       <ROW_interface>
+        <interface>Ethernet1/74</interface>
+        <vlan>1</vlan>
+        <type>eth</type>
+        <portmode>access</portmode>
+        <state>down</state>
+        <state_rsn_desc>Administratively down</state_rsn_desc>
+        <speed>auto</speed>
+        <ratemode>D</ratemode>
+       </ROW_interface>
+       <ROW_interface>
+        <interface>Ethernet1/75</interface>
+        <vlan>1</vlan>
+        <type>eth</type>
+        <portmode>access</portmode>
+        <state>down</state>
+        <state_rsn_desc>Administratively down</state_rsn_desc>
+        <speed>auto</speed>
+        <ratemode>D</ratemode>
+       </ROW_interface>
+       <ROW_interface>
+        <interface>Ethernet1/76</interface>
+        <vlan>1</vlan>
+        <type>eth</type>
+        <portmode>access</portmode>
+        <state>down</state>
+        <state_rsn_desc>Administratively down</state_rsn_desc>
+        <speed>auto</speed>
+        <ratemode>D</ratemode>
+       </ROW_interface>
+       <ROW_interface>
+        <interface>Ethernet1/77</interface>
+        <vlan>1</vlan>
+        <type>eth</type>
+        <portmode>access</portmode>
+        <state>down</state>
+        <state_rsn_desc>Administratively down</state_rsn_desc>
+        <speed>auto</speed>
+        <ratemode>D</ratemode>
+       </ROW_interface>
+       <ROW_interface>
+        <interface>Ethernet1/78</interface>
+        <vlan>1</vlan>
+        <type>eth</type>
+        <portmode>access</portmode>
+        <state>down</state>
+        <state_rsn_desc>Administratively down</state_rsn_desc>
+        <speed>auto</speed>
+        <ratemode>D</ratemode>
+       </ROW_interface>
+       <ROW_interface>
+        <interface>Ethernet1/79</interface>
+        <vlan>1</vlan>
+        <type>eth</type>
+        <portmode>access</portmode>
+        <state>down</state>
+        <state_rsn_desc>Administratively down</state_rsn_desc>
+        <speed>auto</speed>
+        <ratemode>D</ratemode>
+       </ROW_interface>
+       <ROW_interface>
+        <interface>Ethernet1/80</interface>
+        <vlan>1</vlan>
+        <type>eth</type>
+        <portmode>access</portmode>
+        <state>down</state>
+        <state_rsn_desc>Administratively down</state_rsn_desc>
+        <speed>auto</speed>
+        <ratemode>D</ratemode>
+       </ROW_interface>
+       <ROW_interface>
+        <interface>Ethernet1/81</interface>
+        <vlan>1</vlan>
+        <type>eth</type>
+        <portmode>access</portmode>
+        <state>down</state>
+        <state_rsn_desc>Administratively down</state_rsn_desc>
+        <speed>auto</speed>
+        <ratemode>D</ratemode>
+       </ROW_interface>
+       <ROW_interface>
+        <interface>Ethernet1/82</interface>
+        <vlan>1</vlan>
+        <type>eth</type>
+        <portmode>access</portmode>
+        <state>down</state>
+        <state_rsn_desc>Administratively down</state_rsn_desc>
+        <speed>auto</speed>
+        <ratemode>D</ratemode>
+       </ROW_interface>
+       <ROW_interface>
+        <interface>Ethernet1/83</interface>
+        <vlan>1</vlan>
+        <type>eth</type>
+        <portmode>access</portmode>
+        <state>down</state>
+        <state_rsn_desc>Administratively down</state_rsn_desc>
+        <speed>auto</speed>
+        <ratemode>D</ratemode>
+       </ROW_interface>
+       <ROW_interface>
+        <interface>Ethernet1/84</interface>
+        <vlan>1</vlan>
+        <type>eth</type>
+        <portmode>access</portmode>
+        <state>down</state>
+        <state_rsn_desc>Administratively down</state_rsn_desc>
+        <speed>auto</speed>
+        <ratemode>D</ratemode>
+       </ROW_interface>
+       <ROW_interface>
+        <interface>Ethernet1/85</interface>
+        <vlan>1</vlan>
+        <type>eth</type>
+        <portmode>access</portmode>
+        <state>down</state>
+        <state_rsn_desc>Administratively down</state_rsn_desc>
+        <speed>auto</speed>
+        <ratemode>D</ratemode>
+       </ROW_interface>
+       <ROW_interface>
+        <interface>Ethernet1/86</interface>
+        <vlan>1</vlan>
+        <type>eth</type>
+        <portmode>access</portmode>
+        <state>down</state>
+        <state_rsn_desc>Administratively down</state_rsn_desc>
+        <speed>auto</speed>
+        <ratemode>D</ratemode>
+       </ROW_interface>
+       <ROW_interface>
+        <interface>Ethernet1/87</interface>
+        <vlan>1</vlan>
+        <type>eth</type>
+        <portmode>access</portmode>
+        <state>down</state>
+        <state_rsn_desc>Administratively down</state_rsn_desc>
+        <speed>auto</speed>
+        <ratemode>D</ratemode>
+       </ROW_interface>
+       <ROW_interface>
+        <interface>Ethernet1/88</interface>
+        <vlan>1</vlan>
+        <type>eth</type>
+        <portmode>access</portmode>
+        <state>down</state>
+        <state_rsn_desc>Administratively down</state_rsn_desc>
+        <speed>auto</speed>
+        <ratemode>D</ratemode>
+       </ROW_interface>
+       <ROW_interface>
+        <interface>Ethernet1/89</interface>
+        <vlan>1</vlan>
+        <type>eth</type>
+        <portmode>access</portmode>
+        <state>down</state>
+        <state_rsn_desc>Administratively down</state_rsn_desc>
+        <speed>auto</speed>
+        <ratemode>D</ratemode>
+       </ROW_interface>
+       <ROW_interface>
+        <interface>Ethernet1/90</interface>
+        <vlan>1</vlan>
+        <type>eth</type>
+        <portmode>access</portmode>
+        <state>down</state>
+        <state_rsn_desc>Administratively down</state_rsn_desc>
+        <speed>auto</speed>
+        <ratemode>D</ratemode>
+       </ROW_interface>
+       <ROW_interface>
+        <interface>Ethernet1/91</interface>
+        <vlan>1</vlan>
+        <type>eth</type>
+        <portmode>access</portmode>
+        <state>down</state>
+        <state_rsn_desc>Administratively down</state_rsn_desc>
+        <speed>auto</speed>
+        <ratemode>D</ratemode>
+       </ROW_interface>
+       <ROW_interface>
+        <interface>Ethernet1/92</interface>
+        <vlan>1</vlan>
+        <type>eth</type>
+        <portmode>access</portmode>
+        <state>down</state>
+        <state_rsn_desc>Administratively down</state_rsn_desc>
+        <speed>auto</speed>
+        <ratemode>D</ratemode>
+       </ROW_interface>
+       <ROW_interface>
+        <interface>Ethernet1/93</interface>
+        <vlan>1</vlan>
+        <type>eth</type>
+        <portmode>access</portmode>
+        <state>down</state>
+        <state_rsn_desc>Administratively down</state_rsn_desc>
+        <speed>auto</speed>
+        <ratemode>D</ratemode>
+       </ROW_interface>
+       <ROW_interface>
+        <interface>Ethernet1/94</interface>
+        <vlan>1</vlan>
+        <type>eth</type>
+        <portmode>access</portmode>
+        <state>down</state>
+        <state_rsn_desc>Administratively down</state_rsn_desc>
+        <speed>auto</speed>
+        <ratemode>D</ratemode>
+       </ROW_interface>
+       <ROW_interface>
+        <interface>Ethernet1/95</interface>
+        <vlan>1</vlan>
+        <type>eth</type>
+        <portmode>access</portmode>
+        <state>down</state>
+        <state_rsn_desc>Administratively down</state_rsn_desc>
+        <speed>auto</speed>
+        <ratemode>D</ratemode>
+       </ROW_interface>
+       <ROW_interface>
+        <interface>Ethernet1/96</interface>
+        <vlan>1</vlan>
+        <type>eth</type>
+        <portmode>access</portmode>
+        <state>down</state>
+        <state_rsn_desc>Administratively down</state_rsn_desc>
+        <speed>auto</speed>
+        <ratemode>D</ratemode>
+       </ROW_interface>
+       <ROW_interface>
+        <interface>Ethernet2/1</interface>
+        <vlan>1</vlan>
+        <type>eth</type>
+        <portmode>access</portmode>
+        <state>down</state>
+        <state_rsn_desc>XCVR not inserted</state_rsn_desc>
+        <speed>40G</speed>
+        <ratemode>D</ratemode>
+       </ROW_interface>
+       <ROW_interface>
+        <interface>Ethernet2/2</interface>
+        <vlan>1</vlan>
+        <type>eth</type>
+        <portmode>access</portmode>
+        <state>down</state>
+        <state_rsn_desc>Administratively down</state_rsn_desc>
+        <speed>auto</speed>
+        <ratemode>D</ratemode>
+       </ROW_interface>
+       <ROW_interface>
+        <interface>Ethernet2/3</interface>
+        <vlan>1</vlan>
+        <type>eth</type>
+        <portmode>access</portmode>
+        <state>down</state>
+        <state_rsn_desc>XCVR not inserted</state_rsn_desc>
+        <speed>auto</speed>
+        <ratemode>D</ratemode>
+       </ROW_interface>
+       <ROW_interface>
+        <interface>Ethernet2/4</interface>
+        <vlan>1</vlan>
+        <type>eth</type>
+        <portmode>access</portmode>
+        <state>down</state>
+        <state_rsn_desc>XCVR not inserted</state_rsn_desc>
+        <speed>auto</speed>
+        <ratemode>D</ratemode>
+       </ROW_interface>
+       <ROW_interface>
+        <interface>Ethernet2/5</interface>
+        <vlan>1</vlan>
+        <type>eth</type>
+        <portmode>access</portmode>
+        <state>down</state>
+        <state_rsn_desc>XCVR not inserted</state_rsn_desc>
+        <speed>auto</speed>
+        <ratemode>D</ratemode>
+       </ROW_interface>
+       <ROW_interface>
+        <interface>Ethernet2/6</interface>
+        <vlan>1</vlan>
+        <type>eth</type>
+        <portmode>access</portmode>
+        <state>down</state>
+        <state_rsn_desc>XCVR not inserted</state_rsn_desc>
+        <speed>auto</speed>
+        <ratemode>D</ratemode>
+       </ROW_interface>
+       <ROW_interface>
+        <interface>Ethernet2/7</interface>
+        <vlan>1</vlan>
+        <type>eth</type>
+        <portmode>access</portmode>
+        <state>down</state>
+        <state_rsn_desc>XCVR not inserted</state_rsn_desc>
+        <speed>auto</speed>
+        <ratemode>D</ratemode>
+       </ROW_interface>
+       <ROW_interface>
+        <interface>Ethernet2/8</interface>
+        <vlan>1</vlan>
+        <type>eth</type>
+        <portmode>access</portmode>
+        <state>down</state>
+        <state_rsn_desc>XCVR not inserted</state_rsn_desc>
+        <speed>auto</speed>
+        <ratemode>D</ratemode>
+       </ROW_interface>
+      </TABLE_interface>
+     </body>
+      <input>show interface brief</input>
+      <msg>Success</msg>
+      <code>200</code>
+    </output>
+  </outputs>
+</ins_api>

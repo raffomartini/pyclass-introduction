@@ -1,0 +1,98 @@
+{
+    "bk103": {
+        "description": "After the collapse of a nanotechnology \n      society in England, the young survivors lay the \n      foundation for a new society.", 
+        "title": "Maeve Ascendant", 
+        "price": 5.95, 
+        "author": "Corets, Eva", 
+        "publish_date": "2000-11-17", 
+        "genre": "Fantasy"
+    }, 
+    "bk102": {
+        "description": "A former architect battles corporate zombies, \n      an evil sorceress, and her own childhood to become queen \n      of the world.", 
+        "title": "Midnight Rain", 
+        "price": 5.95, 
+        "author": "Ralls, Kim", 
+        "publish_date": "2000-12-16", 
+        "genre": "Fantasy"
+    }, 
+    "bk101": {
+        "description": "An in-depth look at creating applications \n      with XML.", 
+        "title": "XML Developer's Guide", 
+        "price": 44.95, 
+        "author": "Gambardella, Matthew", 
+        "publish_date": "2000-10-01", 
+        "genre": "Computer"
+    }, 
+    "bk107": {
+        "description": "A deep sea diver finds true love twenty \n      thousand leagues beneath the sea.", 
+        "title": "Splish Splash", 
+        "price": 4.95, 
+        "author": "Thurman, Paula", 
+        "publish_date": "2000-11-02", 
+        "genre": "Romance"
+    }, 
+    "bk106": {
+        "description": "When Carla meets Paul at an ornithology \n      conference, tempers fly as feathers get ruffled.", 
+        "title": "Lover Birds", 
+        "price": 4.95, 
+        "author": "Randall, Cynthia", 
+        "publish_date": "2000-09-02", 
+        "genre": "Romance"
+    }, 
+    "bk105": {
+        "description": "The two daughters of Maeve, half-sisters, \n      battle one another for control of England. Sequel to \n      Oberon's Legacy.", 
+        "title": "The Sundered Grail", 
+        "price": 5.95, 
+        "author": "Corets, Eva", 
+        "publish_date": "2001-09-10", 
+        "genre": "Fantasy"
+    }, 
+    "bk104": {
+        "description": "In post-apocalypse England, the mysterious \n      agent known only as Oberon helps to create a new life \n      for the inhabitants of London. Sequel to Maeve \n      Ascendant.", 
+        "title": "Oberon's Legacy", 
+        "price": 5.95, 
+        "author": "Corets, Eva", 
+        "publish_date": "2001-03-10", 
+        "genre": "Fantasy"
+    }, 
+    "bk109": {
+        "description": "After an inadvertant trip through a Heisenberg\n      Uncertainty Device, James Salway discovers the problems \n      of being quantum.", 
+        "title": "Paradox Lost", 
+        "price": 6.95, 
+        "author": "Kress, Peter", 
+        "publish_date": "2000-11-02", 
+        "genre": "Science Fiction"
+    }, 
+    "bk108": {
+        "description": "An anthology of horror stories about roaches,\n      centipedes, scorpions  and other insects.", 
+        "title": "Creepy Crawlies", 
+        "price": 4.95, 
+        "author": "Knorr, Stefan", 
+        "publish_date": "2000-12-06", 
+        "genre": "Horror"
+    }, 
+    "bk110": {
+        "description": "Microsoft's .NET initiative is explored in \n      detail in this deep programmer's reference.", 
+        "title": "Microsoft .NET: The Programming Bible", 
+        "price": 36.95, 
+        "author": "O'Brien, Tim", 
+        "publish_date": "2000-12-09", 
+        "genre": "Computer"
+    }, 
+    "bk111": {
+        "description": "The Microsoft MSXML3 parser is covered in \n      detail, with attention to XML DOM interfaces, XSLT processing, \n      SAX and more.", 
+        "title": "MSXML3: A Comprehensive Guide", 
+        "price": 36.95, 
+        "author": "O'Brien, Tim", 
+        "publish_date": "2000-12-01", 
+        "genre": "Computer"
+    }, 
+    "bk112": {
+        "description": "Microsoft Visual Studio 7 is explored in depth,\n      looking at how Visual Basic, Visual C++, C#, and ASP+ are \n      integrated into a comprehensive development \n      environment.", 
+        "title": "Visual Studio 7: A Comprehensive Guide", 
+        "price": 49.95, 
+        "author": "Galos, Mike", 
+        "publish_date": "2001-04-16", 
+        "genre": "Computer"
+    }
+}
